@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/fastjson-1.1.26.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/jline-0.9.94.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/netty-3.2.2.Final.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/spring-aop-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/spring-beans-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/spring-context-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/spring-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/spring-expression-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/spring-web-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/spring-webmvc-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/zkclient-0.1.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/zookeeper-3.4.5.jar"/>
+	<classpathentry kind="output" path="src/main/webapp/WEB-INF/classes"/>
+</classpath>
